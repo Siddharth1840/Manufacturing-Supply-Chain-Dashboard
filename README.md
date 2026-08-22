@@ -1,14 +1,19 @@
 📊 Manufacturing & Supply Chain Dashboard
 
 ————————————————————————————————————————————————————
+
 <img width="1085" height="632" alt="Screenshot 2026-08-21 203253" src="https://github.com/user-attachments/assets/9399eda5-4e16-4ece-9305-6781a7dec30e" />
 
 🔍 Project Overview
-———————————————————————————————————————————————————————————————
+
+————————————————————————————————————————————————————
+
 This project focuses on analyzing manufacturing production and supply chain data to uncover cost patterns, workforce distribution, and warehouse efficiency. Built in Power BI, the dashboard provides a unified view of how production cost, product quantity, employee distribution, and warehouse storage influence overall manufacturing performance.
 
 🎯 Objectives
-———————————————————————————————————————————————————————————————
+
+————————————————————————————————————————————————————
+
 ➡ Identify trends in production cost and quantity across product types and countries.
 
 ➡ Measure warehouse-wise storage distribution to support inventory planning.
@@ -20,7 +25,9 @@ This project focuses on analyzing manufacturing production and supply chain data
 ➡ Provide data-driven insights to enhance manufacturing decision-making.
 
 🛠️ Tools & Technologies
-———————————————————————————————————————————————————————————————
+
+————————————————————————————————————————————————————
+
 ➡ Power BI – Dashboard development & data visualization
 
 ➡ DAX – Advanced calculations & KPIs
@@ -30,7 +37,9 @@ This project focuses on analyzing manufacturing production and supply chain data
 ➡ Excel – Data preprocessing & validation
 
 📂 Datasets 
-———————————————————————————————————————————————————————————————
+
+————————————————————————————————————————————————————
+
 1) Manufacturing Production Data
 
   Fields:
@@ -70,7 +79,9 @@ This project focuses on analyzing manufacturing production and supply chain data
 ✅ Ensure ProductID is a shared key for modeling production ↔ employee relationships where relevant. 
 
 📈 Key Insights
-———————————————————————————————————————————————————————————————
+
+————————————————————————————————————————————————————
+
 ➡ Cost Efficiency Trends: Total cost dropped from $3.67M (2023) to $2.42M (2025), while quantity stayed relatively stable — indicating improved production  
    efficiency over time.
 
@@ -85,7 +96,9 @@ This project focuses on analyzing manufacturing production and supply chain data
    staff (18.88%).
 
 📊 Dashboard Features
-———————————————————————————————————————————————————————————————
+
+————————————————————————————————————————————————————
+
 ➡ Interactive filters for Year, Month, Product Type, and Country of Origin
 
 ➡ Production cost breakdown by product type
@@ -101,7 +114,9 @@ This project focuses on analyzing manufacturing production and supply chain data
 ➡ Geographic map view of highest production quantity by country
 
 📌 Tags
-———————————————————————————————————————————————————————————————
+
+————————————————————————————————————————————————————
+
 Power BI · DAX · Power Query · Data Modeling · Dashboard Development · Manufacturing Analytics · Supply Chain
 
 
