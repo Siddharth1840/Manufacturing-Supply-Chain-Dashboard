@@ -1,6 +1,6 @@
 📊 Manufacturing & Supply Chain Dashboard
 
-———————————————————————————————————————————————————————————————
+—————————————————————————————————————————————————————
 <img width="1085" height="632" alt="Screenshot 2026-08-21 203253" src="https://github.com/user-attachments/assets/9399eda5-4e16-4ece-9305-6781a7dec30e" />
 
 🔍 Project Overview
